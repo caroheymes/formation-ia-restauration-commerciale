@@ -4,6 +4,7 @@ Kit opérationnel et pédagogique complet pour le parcours certifiant de 7 jours
 
 Ce dispositif répond aux contraintes de terrain des exploitants, chefs de cuisine et responsables de salle : exécution directe dans le navigateur, zéro ligne de code à manipuler, zéro frais d'abonnement API obligatoire et conformité Qualiopi.
 
+Programme complet accessible à l'adresse https://caroheymes.github.io/formation-ia-restauration-commerciale/
 ---
 
 ## Objectifs opérationnels
